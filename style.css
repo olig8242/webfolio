@@ -264,11 +264,11 @@ span {
     background-size: 600px;
 }
 .box-two {
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(./image/CSS3_and_HTML5_logos_and_wordmarks.svg.png) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(./image/wimhofhomepage-img.PNG) center center no-repeat;
     background-size: 500px;
 }
 .box-two:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url(./image/CSS3_and_HTML5_logos_and_wordmarks.svg.png) left center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url(./image/wimhofhomepage-img.PNG) left center no-repeat;
     background-size: 600px;
 }
 .box-three {
@@ -453,6 +453,12 @@ span {
 
     .about-image{
         order: 2;
+    }
+
+    .row{
+
+        height: auto;
+
     }
 }
 
